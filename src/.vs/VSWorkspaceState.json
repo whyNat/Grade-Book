@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GradeBook",
+    "\\GradeBook\\bin",
+    "\\GradeBook\\bin\\Debug",
+    "\\GradeBook\\bin\\Debug\\netcoreapp2.1",
+    "\\GradeBook\\bin\\Release",
+    "\\GradeBook\\bin\\Release\\netcoreapp2.1",
+    "\\GradeBook\\obj"
+  ],
+  "SelectedNode": "\\GradeBook\\bin\\Release\\netcoreapp2.1\\GradeBook.runtimeconfig.json",
+  "PreviewInSolutionExplorer": false
+}
